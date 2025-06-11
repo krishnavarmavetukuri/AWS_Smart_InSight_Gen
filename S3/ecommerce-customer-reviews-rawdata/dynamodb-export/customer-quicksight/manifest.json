@@ -1,0 +1,1 @@
+{"fileLocations": [{"URIs": ["s3://ecommerce-customer-reviews-rawdata/dynamodb-export/customer-quicksight/CustomerReviewsAnalysis_Cleaned.csv"]}], "globalUploadSettings": {"format": "CSV", "delimiter": ",", "textqualifier": "'", "containsHeader": "true"}}
